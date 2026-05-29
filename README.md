@@ -163,4 +163,4 @@ print("\nModel Accuracy (Embedded Method):", accuracy)
 
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus the Feature Scaling and selection Executed successfully.
